@@ -1,0 +1,13 @@
+{
+  "name": "mastering-git",
+  "version": "1.0.0",
+  "description": "- Yo, `Evan` here - This is coming from `dev-soumya` - I am adding this from `feature-branch`",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
